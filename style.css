@@ -32,3 +32,9 @@ p{
 .bg-page-2{
   background-color: brown;
 }
+
+.fotoSaya{
+  display: flex;
+  justify-items: center;
+  border-radius: 50%;
+}
