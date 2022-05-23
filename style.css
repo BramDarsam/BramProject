@@ -1,5 +1,5 @@
-body{
-  background-color: aquamarine;
+.container{
+  text-align: center;
 }
 
 h1{
@@ -17,10 +17,18 @@ p{
   cursor: pointer;
 }
 
-.tombol-Yes{
+.tombol-Yes:hover{
   background-color: gold;
 }
 
-.tombol-No{
+.tombol-No:hover{
+  background-color: brown;
+}
+
+.bg-page-1{
+  background-color: gold;
+}
+
+.bg-page-2{
   background-color: brown;
 }
