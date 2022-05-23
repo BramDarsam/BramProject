@@ -1,0 +1,26 @@
+body{
+  background-color: aquamarine;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+.tombol{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.tombol-Yes{
+  background-color: gold;
+}
+
+.tombol-No{
+  background-color: brown;
+}
